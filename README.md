@@ -1,5 +1,7 @@
 
-BudgetBuddy
+Project Name:BudgetBuddy
+
+
 BudgetBuddy is a simple and intuitive expense tracker app designed to help users effortlessly manage their monthly expenses and incomes. Built with HTML, CSS, and JavaScript, this project aims to provide a user-friendly interface for tracking financial activities without unnecessary complexity.
 
 Features
